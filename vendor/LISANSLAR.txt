@@ -1,0 +1,9 @@
+three.min.js, GLTFLoader.js, SkeletonUtils.js: three.js r128, Copyright 2010-2021 Three.js Authors, MIT lisansı.
+https://github.com/mrdoob/three.js/blob/r128/LICENSE
+
+Baloo 2: Copyright The Baloo 2 Project Authors, SIL Open Font License 1.1.
+Nunito: Copyright The Nunito Project Authors, SIL Open Font License 1.1.
+https://openfontlicense.org
+
+peerjs.min.js: PeerJS 1.5.5, Copyright PeerJS contributors, MIT lisansı.
+https://github.com/peers/peerjs/blob/master/LICENSE
